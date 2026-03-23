@@ -2,7 +2,7 @@
 
 🚀 Overview
 
-This project is an Excel-based automation solution designed to send bulk emails using Microsoft Outlook. It enables dynamic email generation, attachment handling, and batch processing, significantly reducing manual effort in repetitive communication workflows.
+This project is an Excel-based automation solution designed to send bulk emails using Microsoft Outlook. It enables dynamic email generation, attachment handling, file renaming and batch processing, significantly reducing manual effort in repetitive communication workflows.
 
 ---
 
@@ -14,6 +14,8 @@ Organizations often need to send large volumes of emails (e.g., invoices, report
 - Prone to errors
 - Difficult to scale
 
+In the current business scinario where this project is being applied, user get hundreds of invoices from finance department after digitally signed in a specific name format. The user then renames the files to fit to their requirement manually and writes seperate email to all customers attaching the files one by one.
+
 ---
 
 💡 Solution
@@ -21,6 +23,7 @@ Organizations often need to send large volumes of emails (e.g., invoices, report
 Developed a VBA-based automation tool that:
 
 - Reads data from Excel
+- Renames the files stared in a specific folder
 - Generates personalized emails
 - Attaches relevant documents
 - Sends or previews emails via Outlook
@@ -61,14 +64,24 @@ Developed a VBA-based automation tool that:
 
 🔹 Excel Design
 
-- Structured input sheet containing:
-  - Email ID
-  - Subject
-  - Email body
-  - Attachment path
-- User controls for:
+- User control sheet:
   - Batch processing
   - Row-level execution
+  - Select files folder
+  - Navigation Pane
+  - Processed Dashboard
+- Structured input sheet:
+  - Input details of documnet (e.g., Invoice Number | Customer Name | Invoice Type | Invoice Value | etc.,)
+  - Other fields populated using excel functions (e.g., Sneder Name | Sender Email ID | Customer Email ID | CC Email | File Names | File Path | etc.,)
+- Customer data sheet:
+  - Customer name
+  - Email ID
+  - Location
+  - Business Area
+- Sent Log sheet:
+  - Document No
+  - Document Name
+  - Sent Date and Time
 
 ---
 
