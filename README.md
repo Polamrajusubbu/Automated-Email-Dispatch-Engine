@@ -177,7 +177,7 @@ Solution: Added validation and conditional checks
 
 Mail-Dispatch-Engine/
 │
-├── Email_Automation_Template.xlsm
+├── Email_Automation_Template.xlsm (This file can be customized to the specific usage)
 ├── Screenshots/
 └── README.md
 
