@@ -184,6 +184,10 @@ Automated-Email-Dispatch-Engine/
 
 ---
 
+📸 Screenshots 
+
+
+
 ▶️ How to Use
 
 1. Open the Excel template
