@@ -27,6 +27,7 @@ Developed a VBA-based automation tool that:
 - Generates personalized emails
 - Attaches relevant documents
 - Sends or previews emails via Outlook
+- Supports safe execution through preview mode with both batch and row-level control
 
 ---
 
@@ -43,6 +44,9 @@ Excel Input → VBA Processing → File Handling → Outlook → Email Sent/Prev
 - 📝 Dynamic subject and email body
 - 📎 Automated attachment handling
 - 🧾 Template-based email generation
+
+** Advanced Features**
+
 - 👀 Preview mode (Display before sending)
     - Batch mode
     - Selected row mode
