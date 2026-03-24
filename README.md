@@ -46,7 +46,7 @@ Excel Input → VBA Processing → File Handling → Outlook → Email Sent/Prev
 - 📝 Dynamic subject and email body
 - 🧾 Template-based email generation
 
-** Advanced Features**
+✨ Advanced Features
 
 - 👀 **Preview mode (Display before sending)**
     - Batch mode
@@ -242,6 +242,8 @@ Log of Sent mails
 ![Log](ScreenShots/Sent_Log.png)
 
 🔸 Code
+
+Includes modular VBA design for better maintainability and scalability
 
 Choosing Path
 
