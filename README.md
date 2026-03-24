@@ -186,9 +186,38 @@ Automated-Email-Dispatch-Engine/
 
 📸 Screenshots 
 
+> Control Panel
 ![Control Sheet](ScreenShots/User_Control_Sheet.png)
-
-
+> Maintain Customer Data
+![Customer Sheet](ScreenShots/Customer_Data_Sheet.png)
+> Input Document Details
+![Data Input Sheet](ScreenShots/Data_Input_Sheet.png)
+> File Names Generation
+![Generate File Names](ScreenShots/File_Names_Generated_Sheet.png)
+> Files Before Renaming
+![File Before Rename](ScreenShots/Files_Before_Renaming.png)
+> Files After Renaming
+![File After Rename](ScreenShots/Files_After_Renaming.png)
+> Email Dispatch
+![Dispatch Sheet](ScreenShots/Dispatch_Sheet.png)
+> Email Processing 
+![Pracessing Email](ScreenShots/Mail_Generation_Processing.png)
+> Generated Email
+![Generated Email](ScreenShots/Email_Generated.png)
+> Log of Sent mails
+![Log](ScreenShots/Sent_Log.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
 
 ---
 
