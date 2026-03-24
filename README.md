@@ -1,5 +1,7 @@
 📧 Automated Email Dispatch System using Excel VBA & Outlook
 
+Designed to automate high-volume email workflos with dynamic content, attachment handling, and file system operations.
+
 🚀 Overview
 
 This project is an Excel-based automation solution designed to send bulk emails using Microsoft Outlook. It enables dynamic email generation, attachment handling, file renaming and batch processing, significantly reducing manual effort in repetitive communication workflows.
@@ -42,12 +44,11 @@ Excel Input → VBA Processing → File Handling → Outlook → Email Sent/Prev
 - 📨 Bulk email dispatch from Excel
 - 🔗 Outlook integration
 - 📝 Dynamic subject and email body
-- 📎 Automated attachment handling
 - 🧾 Template-based email generation
 
 ** Advanced Features**
 
-- 👀 Preview mode (Display before sending)
+- 👀 **Preview mode (Display before sending)**
     - Batch mode
     - Selected row mode
 - ❌ Error handling:
@@ -55,7 +56,8 @@ Excel Input → VBA Processing → File Handling → Outlook → Email Sent/Prev
     - Missing attachments
     - Critical Error
 - 📂 File name generation
-- 🔄 File renaming automation within folders
+- 🔄 **File renaming automation within**
+- 📎 **Dynamic attachment handling**
 
 ---
 
