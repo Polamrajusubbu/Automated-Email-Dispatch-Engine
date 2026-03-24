@@ -175,10 +175,11 @@ Solution: Added validation and conditional checks
 
 📂 Project Structure
 
-Mail-Dispatch-Engine/
+Automated-Email-Dispatch-Engine/
 │
-├── Email_Automation_Template.xlsm (This file can be customized to the specific usage)
+├── Mail-Dispatch-Engine.xlsm (This file can be customized to the specific usage)
 ├── Screenshots/
+├── SampleDocuments/
 └── README.md
 
 ---
@@ -186,11 +187,12 @@ Mail-Dispatch-Engine/
 ▶️ How to Use
 
 1. Open the Excel template
-2. Maintain customer data
-3. Enter documwent details in the input sheet
-4. Select mode (Batch / Selected row)
-5. Click “Send / Preview Emails”
-6. Emails are generated via Outlook
+2. Select mode (Batch / Selected row)
+3. Select Folder path
+4. Maintain customer data
+5. Enter documwent details in the input sheet
+6. Click Send Email button
+7. Emails are generated via Outlook
 
 ---
 
