@@ -213,7 +213,8 @@ Email Processing
 ![Pracessing Email](ScreenShots/Mail_Generation_Processing.png)
 
 Generated Email
-![Generated Email](ScreenShots/Email_Generated.png)
+
+![Generate Email](ScreenShots/Email_Generated.png)
 
 Log of Sent mails
 ![Log](ScreenShots/Sent_Log.png)
