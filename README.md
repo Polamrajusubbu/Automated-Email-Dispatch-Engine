@@ -23,7 +23,7 @@ In the current business scinario where this project is being applied, user get h
 Developed a VBA-based automation tool that:
 
 - Reads data from Excel
-- Renames the files stared in a specific folder
+- Renames the files stored in a specific folder
 - Generates personalized emails
 - Attaches relevant documents
 - Sends or previews emails via Outlook
@@ -69,7 +69,7 @@ Developed a VBA-based automation tool that:
   - Row-level execution
   - Select files folder
   - Navigation Pane
-  - Processed Dashboard
+  - Process Dashboard
 - Structured input sheet:
   - Input details of documnet (e.g., Invoice Number | Customer Name | Invoice Type | Invoice Value | etc.,)
   - Other fields populated using excel functions (e.g., Sneder Name | Sender Email ID | Customer Email ID | CC Email | File Names | File Path | etc.,)
@@ -186,10 +186,11 @@ Mail-Dispatch-Engine/
 ▶️ How to Use
 
 1. Open the Excel template
-2. Enter email details in the input sheet
-3. Select mode (Batch / Selected row)
-4. Click “Send / Preview Emails”
-5. Emails are generated via Outlook
+2. Maintain customer data
+3. Enter documwent details in the input sheet
+4. Select mode (Batch / Selected row)
+5. Click “Send / Preview Emails”
+6. Emails are generated via Outlook
 
 ---
 
