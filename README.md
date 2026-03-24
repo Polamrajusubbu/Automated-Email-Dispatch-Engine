@@ -189,27 +189,35 @@ Automated-Email-Dispatch-Engine/
 🔸 Process Flow
 
 Control Panel
+
 ![Control Sheet](ScreenShots/User_Control_Sheet.png)
 
 Maintain Customer Data
+
 ![Customer Sheet](ScreenShots/Customer_Data_Sheet.png)
 
 Input Document Details
+
 ![Data Input Sheet](ScreenShots/Data_Input_Sheet.png)
 
 File Names Generation
+
 ![Generate File Names](ScreenShots/File_Names_Generated_Sheet.png)
 
 Files Before Renaming
+
 ![File Before Rename](ScreenShots/Files_Before_Renaming.png)
 
 Files After Renaming
+
 ![File After Rename](ScreenShots/Files_After_Renaming.png)
 
 Email Dispatch
+
 ![Dispatch Sheet](ScreenShots/Dispatch_Sheet.png)
 
 Email Processing 
+
 ![Pracessing Email](ScreenShots/Mail_Generation_Processing.png)
 
 Generated Email
@@ -217,44 +225,57 @@ Generated Email
 ![Generate Email](ScreenShots/Email_Generated.png)
 
 Log of Sent mails
+
 ![Log](ScreenShots/Sent_Log.png)
 
 🔸 Code
 
 Choosing Path
+
 ![Choose Path](ScreenShots/Code_Choose_Path.png)
 
 FileName Generation
+
 ![Gen FileName](ScreenShots/Code_FileName_Generation.png)
 
 Get File Path
+
 ![Gile Path](ScreenShots/Code_Get_FilePath.png)
 
 File Renaming
+
 ![Rename File](ScreenShots/Code_File_Rename.png)
 
 Get Data into Dispatch Table
+
 ![Get Data](ScreenShots/Code_Get_Data.png)
 
 Selecting Mail Template
+
 ![Mail Template](ScreenShots/Code_MailTemplate_Selection.png)
 
 Preview or Selected Row
+
 ![Preview](ScreenShots/Code_Preview_Logic.png)
 
 Insert Range to Outmail
+
 ![Insert Range](ScreenShots/Code_Insert_Range.png)
 
 Insert Multiple Attachments
+
 ![Multi Attachment](ScreenShots/Code_Insert_Multi_Attachment.png)
 
 Range Placeholder Replacement
+
 ![Copy Range](ScreenShots/Code_Range_Copy.png)
 
 Email Sent Log
+
 ![Log Sent](ScreenShots/Code_Log_Sent.png)
 
 Clearing Data
+
 ![Clear](ScreenShots/Code_Clear_Data.png)
 
 ---
