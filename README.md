@@ -186,7 +186,11 @@ Automated-Email-Dispatch-Engine/
 
 📸 Screenshots 
 
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
 
+
+
+---
 
 ▶️ How to Use
 
