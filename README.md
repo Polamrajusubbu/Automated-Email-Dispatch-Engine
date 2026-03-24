@@ -30,6 +30,12 @@ Developed a VBA-based automation tool that:
 
 ---
 
+🔄 Workflow
+
+Excel Input → VBA Processing → File Handling → Outlook → Email Sent/Preview
+
+---
+
 ✨ Key Features
 
 - 📨 Bulk email dispatch from Excel
@@ -82,12 +88,6 @@ Developed a VBA-based automation tool that:
   - Document No
   - Document Name
   - Sent Date and Time
-
----
-
-🔄 Workflow
-
-Excel Input → VBA Processing → File Handling → Outlook → Email Sent/Preview
 
 ---
 
@@ -189,31 +189,38 @@ Automated-Email-Dispatch-Engine/
 🔸 Process Flow
 
 Control Panel
-
+- User selects the path, preview or send mode, and navigates to required sheet
+  
 ![Control Sheet](ScreenShots/User_Control_Sheet.png)
 
 Maintain Customer Data
-
+- User maintains the customer data and update as and when required
+  
 ![Customer Sheet](ScreenShots/Customer_Data_Sheet.png)
 
 Input Document Details
-
+- User inputs document details as required
+  
 ![Data Input Sheet](ScreenShots/Data_Input_Sheet.png)
 
 File Names Generation
-
+- User can generate and renames the files by clicking the buttons provided
+  
 ![Generate File Names](ScreenShots/File_Names_Generated_Sheet.png)
 
 Files Before Renaming
-
+- User will store the files in a specific folder with the defiled name format
+  
 ![File Before Rename](ScreenShots/Files_Before_Renaming.png)
 
 Files After Renaming
-
+- User can rename the files with generated naming convention
+  
 ![File After Rename](ScreenShots/Files_After_Renaming.png)
 
 Email Dispatch
-
+- User shall get data from the entry sheet and send the mails by clicking the relevent buttons
+  
 ![Dispatch Sheet](ScreenShots/Dispatch_Sheet.png)
 
 Email Processing 
