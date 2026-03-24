@@ -231,7 +231,7 @@ Get File Path
 ![Gile Path](ScreenShots/Code_Get_FilePath.png)
 
 File Renaming
-![Rename File](ScreenShots/Code_File_Renamet.png)
+![Rename File](ScreenShots/Code_File_Rename.png)
 
 Get Data into Dispatch Table
 ![Get Data](ScreenShots/Code_Get_Data.png)
