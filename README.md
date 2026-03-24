@@ -186,7 +186,7 @@ Automated-Email-Dispatch-Engine/
 
 📸 Screenshots 
 
-!(ScreenShots/User_Control_Sheet.png)
+![Control Sheet](ScreenShots/User_Control_Sheet.png)
 
 
 
