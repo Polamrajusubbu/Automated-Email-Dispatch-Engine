@@ -176,18 +176,7 @@ Solution: Implemented file system automation using VBA
 - Microsoft Excel
 - VBA (Visual Basic for Applications)
 - Microsoft Outlook
-
----
-
-📂 Project Structure
-
-Automated-Email-Dispatch-Engine/
-│
-├── Mail-Dispatch-Engine.xlsm (This file can be customized to the specific usage)
-├── Screenshots/
-├── SampleDocuments/
-└── README.md
-
+  
 ---
 
 📸 Screenshots 
