@@ -101,50 +101,50 @@ Excel Input → VBA Processing → File Handling → Outlook → Email Sent/Prev
 
 🔸 Bulk Email Handling
 
-Challenge: Managing large datasets without performance issues
-Solution: Optimized looping and minimized unnecessary object calls
+- Challenge: Managing large datasets without performance issues
+- Solution: Optimized looping and minimized unnecessary object calls
 
 ---
 
 🔸 Outlook Integration
 
-Challenge: Ensuring stable interaction with Outlook
-Solution: Used Outlook object model with controlled instantiation
+- Challenge: Ensuring stable interaction with Outlook
+- Solution: Used Outlook object model with controlled instantiation
 
 ---
 
 🔸 Dynamic Email Content
 
-Challenge: Personalizing subject and body for each recipient
-Solution: Used cell-driven dynamic placeholders
+- Challenge: Personalizing subject and body for each recipient
+- Solution: Used cell-driven dynamic placeholders
 
 ---
 
 🔸 Attachment Handling
 
-Challenge: Missing or incorrect file paths
-Solution: Implemented validation checks before sending
+- Challenge: Missing or incorrect file paths
+- Solution: Implemented validation checks before sending
 
 ---
 
 🔸 Preview vs Send Mode
 
-Challenge: Allowing safe execution without sending emails
-Solution: Built dual-mode logic (Display vs Send)
+- Challenge: Allowing safe execution without sending emails
+- Solution: Built dual-mode logic (Display vs Send)
 
 ---
 
 🔸 Selected Row Processing
 
-Challenge: Sending email for only specific records
-Solution: Added row-based execution logic
+- Challenge: Sending email for only specific records
+- Solution: Added row-based execution logic
 
 ---
 
 🔸 File Name Generation
 
-Challenge: Creating dynamic file names based on data
-Solution: Used concatenation logic from Excel inputs
+- Challenge: Creating dynamic file names based on data
+- Solution: Used concatenation logic from Excel inputs
 
 ---
 
@@ -157,8 +157,8 @@ Solution: Implemented file system automation using VBA
 
 🔸 Error Handling
 
-Challenge: Avoiding runtime failures
-Solution: Added validation and conditional checks
+- Challenge: Avoiding runtime failures
+- Solution: Added validation and conditional checks
 
 ---
 
